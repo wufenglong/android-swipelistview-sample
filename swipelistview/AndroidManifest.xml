@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   ~ Copyright (C) 2013 47 Degrees, LLC
   ~ http://47deg.com
   ~ hello@47deg.com
@@ -18,12 +17,9 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.fortysevendeg.swipelistview" android:versionCode="1" android:versionName="1.0">
-
-  <uses-sdk android:minSdkVersion="7"
-            android:targetSdkVersion="19" />
-
-    <application />
+    package="com.fortysevendeg.swipelistview"
+    android:versionCode="1"
+    android:versionName="1.0">
 
 </manifest>
 
